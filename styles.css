@@ -12,5 +12,7 @@ header {
 }
 
 section{
-    background:rgba(228, 131, 147, 0.562)
+    background:rgba(228, 131, 147, 0.562);
+    padding-bottom: 80px;
+    padding-top: 80px;
 }
