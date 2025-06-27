@@ -1,6 +1,6 @@
 body {
     color: rgba(126, 0, 243, 0.774);
-    background: rgba(194, 31, 216, 0.61);Add commentMore actions
+    background: rgba(0, 0, 0, 0);Add commentMore actions
     margin: 0px;
      font-family: "Edu QLD Hand", cursive;
 }
@@ -13,7 +13,7 @@ header {
 }
 
 section{
-    background:rgba(228, 131, 147, 0.562);
+    background:rgba(253, 40, 75, 0.555);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
