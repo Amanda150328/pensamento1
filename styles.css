@@ -2,7 +2,8 @@ body {
     color: rgba(0, 0, 0, 0.774);
     background: rgb(43, 39, 39);Add commentMore actions
     margin: 0px;
-     font-family: "Edu QLD Hand", cursive;
+    font-family: "Edu QLD Hand", cursive;
+    margin-bottom: 100px;
 }
 
 header {
